@@ -1,0 +1,7 @@
+# login
+POST http://localhost:8989/login
+Content-Type: application/json
+{
+  "user": "yqrashawn",
+  "password": "test"
+}
